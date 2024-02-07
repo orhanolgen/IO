@@ -1,3 +1,5 @@
+You can find the pdf file of the research "Exchange Rate Pass-Through A Comparative Analysis" also R-codes to calculate exchange rate pass-through.
+
 Here is a summary of the code:
 
 1. **Package Installation and Library Loading:**
